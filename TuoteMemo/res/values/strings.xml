@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tuote Memo</string>
+    <string name="lisaa_tuote_button_text">Lisää tuote</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
